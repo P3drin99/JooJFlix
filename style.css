@@ -1,0 +1,75 @@
+body{
+    color: blueviolet;
+    background: black;
+    margin: 0px;
+}
+header{
+    border-top: solid 3px blue;
+    border-bottom: solid 2px blue;
+    padding: 10px;
+    font-size: 30px;
+    border-style:dotted;
+    text-align: center;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+section{
+    background: black;
+    padding: 10px;
+    padding-bottom: 10px;
+    display: grid;
+    justify-content: center;
+}
+.texto{
+    margin-right: 5%;
+}
+
+section2{
+    color: red;
+    background: black;
+    padding: 10px;
+    padding-top: 10px;
+    display: grid;
+    justify-content: right;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+section3{
+    color: blue;
+    background: black;
+    padding: 10px;
+    padding-top: 10px;
+    display: grid;
+    justify-content: left;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+section4{
+    color: yellow;
+    background: black;
+    padding: 10px;
+    padding-top: 10px;
+    display: grid;
+    justify-content: right;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+section5{
+    color: orangered;
+    background: black;
+    padding: 10px;
+    padding-top: 10px;
+    display: grid;
+    justify-content: left;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
